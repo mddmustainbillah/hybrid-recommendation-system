@@ -1,0 +1,7 @@
+/transformer.joblib
+
+## Ignore the data files
+/data/
+
+## Ignore the virtual environment directory
+/venv-hy-recommendation/
