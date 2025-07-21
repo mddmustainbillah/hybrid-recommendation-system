@@ -127,7 +127,7 @@ This system is useful for:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/hybrid-recommendation-system.git
+git clone https://github.com/mddmustainbillah/hybrid-recommendation-system.git
 cd hybrid-recommendation-system
 
 # Create virtual environment
